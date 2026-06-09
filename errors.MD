@@ -27,7 +27,7 @@
 
 **EN:** “This Aureliano,” General Moncada commented, “what a pity that he’s not a Conservative.” 
 
-**JP:** `⚠️[MISS]⚠️`
+**JP:** ⚠️`[MISS]`⚠️
 
 **ES:** Como muchos civiles conservadores, José Raquel Moncada había hecho la guerra en defensa de su partido y había alcanzado el título de general en el campo de batalla, aunque carecía de vocación militar.
 
@@ -55,7 +55,7 @@
 
 **EN:** Many of them did not even know why they were fighting.
 
-**JP:** `⚠️[MISS]⚠️`
+**JP:** ⚠️`[MISS]`⚠️
 
 
 **ES:** En medio de aquella muchedumbre abigarrada, cuyas diferencias de criterio estuvieron a punto de provocar una explosión interna, se 
@@ -85,7 +85,7 @@ destacaba una autoridad tenebrosa: el general Teófilo Vargas.
 
 **EN:** Then he turned out the light and closed the door. 
 
-**JP:** `⚠️[MISS]⚠️`
+**JP:** ⚠️`[MISS]`⚠️
 
 **ES:** Cuando les habló a los soldados, entendió Aureliano Segundo que el joven militar había visto el cuarto con los mismos ojos con que lo vio el coronel Aureliano Buendía.
 
