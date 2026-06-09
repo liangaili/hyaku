@@ -7,6 +7,7 @@
 **EN:** In less than twelve years they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
 
 **JP:** 十二年たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
+
 ---
 
 **ES:** La persona a quien se lo dijo, que fue la primera a quien mostró la carta, era el general conservador José Raquel Moncada, alcalde de Macondo desde que terminó la guerra. 
