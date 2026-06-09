@@ -5,9 +5,9 @@
 
 **CN:** <b><u>两年</u></b>内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
 
-**EN:** In less than <b><u>twelve years</u></b> they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
+**EN:** In less than <b><u>twelve years❎</u></b> they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
 
-**JP:** <b><u>十二年</u></b>たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
+**JP:** <b><u>十二年❎</u></b>たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
 
 ---
 ### missed a sentense
@@ -27,7 +27,7 @@
 
 **EN:** “This Aureliano,” General Moncada commented, “what a pity that he’s not a Conservative.” 
 
-**JP:** `[MISS]`
+**JP:** `[MISS]❎`
 
 **ES:** Como muchos civiles conservadores, José Raquel Moncada había hecho la guerra en defensa de su partido y había alcanzado el título de general en el campo de batalla, aunque carecía de vocación militar.
 
@@ -55,7 +55,7 @@
 
 **EN:** Many of them did not even know why they were fighting.
 
-**JP:** `[MISS]`
+**JP:** `[MISS]❎`
 
 
 **ES:** En medio de aquella muchedumbre abigarrada, cuyas diferencias de criterio estuvieron a punto de provocar una explosión interna, se 
@@ -85,7 +85,7 @@ destacaba una autoridad tenebrosa: el general Teófilo Vargas.
 
 **EN:** Then he turned out the light and closed the door. 
 
-**JP:** `[MISS]`
+**JP:** `[MISS]❎`
 
 **ES:** Cuando les habló a los soldados, entendió Aureliano Segundo que el joven militar había visto el cuarto con los mismos ojos con que lo vio el coronel Aureliano Buendía.
 
