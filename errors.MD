@@ -1,6 +1,6 @@
-c08
+## c08
 
-En menos de dos años bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
+**ES:** En menos de dos años bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
 
 两年内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
 
@@ -9,7 +9,7 @@ In less than twelve years they baptized with the name Aureliano and the last nam
 十二年たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
 
 
-La persona a quien se lo dijo, que fue la primera a quien mostró la carta, era el general conservador José Raquel Moncada, alcalde de Macondo desde que terminó la guerra. 
+**ES:** La persona a quien se lo dijo, que fue la primera a quien mostró la carta, era el general conservador José Raquel Moncada, alcalde de Macondo desde que terminó la guerra. 
 
 听她说这话的人，也是她对其出示信件的第一个人，是保守党将军何塞·拉克尔·蒙卡达，战后马孔多的市长。
 
@@ -18,7 +18,7 @@ The person to whom she said it, who was the first to whom she showed the letter,
 彼女が最初にその手紙を見せ、そう話しかけた相手は、戦争の終った日からマコンドの町長となった保守派のホセ・ラケル・モンカーダ将軍だった。
 
 
-«Este Aureliano —comentó el general Moncada—, lástima que no sea conservador». Lo admiraba de veras. 
+**ES:** «Este Aureliano —comentó el general Moncada—, lástima que no sea conservador». Lo admiraba de veras. 
 
 “这个奥雷里亚诺，”蒙卡达将军说，“真可惜他不是保守党。”
 
@@ -26,7 +26,7 @@ The person to whom she said it, who was the first to whom she showed the letter,
 
 `[MISS]`
 
-Como muchos civiles conservadores, José Raquel Moncada había hecho la guerra en defensa de su partido y había alcanzado el título de general en el campo de batalla, aunque carecía de vocación militar.
+**ES:** Como muchos civiles conservadores, José Raquel Moncada había hecho la guerra en defensa de su partido y había alcanzado el título de general en el campo de batalla, aunque carecía de vocación militar.
 
 像许多保守党人一样，何塞·拉克尔·蒙卡达为了捍卫自己的党派才参战，并在战场上获得了将军的头衔，但他无意成为职业军人。
 
@@ -36,9 +36,9 @@ He really admired him. Like many Conservative civilians, José Raquel Moncada ha
 
 
 
-c09
+## c09
 
-Había, inclusive, un antiguo funcionario conservador refugiado en la revuelta para escapar a un juicio por malversación de fondos.
+**ES:** Había, inclusive, un antiguo funcionario conservador refugiado en la revuelta para escapar a un juicio por malversación de fondos.
 
 甚至一位前保守党官员也在其中，他贪污公款后托身于起义军以逃避法律制裁。
 
@@ -47,7 +47,7 @@ There was even a former Conservative functionary who had taken refuge in the rev
 公金費消の科で裁判にかけられるのを避けるために反乱に加わった、保守派の元官吏までまじっていた。
 
 
-Muchos no sabían ni siquiera por qué peleaban.
+**ES:** Muchos no sabían ni siquiera por qué peleaban.
 
 他们当中的许多人甚至不知道自己为何而战。
 
@@ -56,7 +56,7 @@ Many of them did not even know why they were fighting.
 `[MISS]`
 
 
-En medio de aquella muchedumbre abigarrada, cuyas diferencias de criterio estuvieron a punto de provocar una explosión interna, se 
+**ES:** En medio de aquella muchedumbre abigarrada, cuyas diferencias de criterio estuvieron a punto de provocar una explosión interna, se 
 destacaba una autoridad tenebrosa: el general Teófilo Vargas.
 
 他们彼此间存在着巨大分歧，几乎要酿成一场内讧，就在这鱼龙混杂中一位居心叵测的强权人物脱颖而出——特奥菲洛·巴尔加斯将军。
@@ -65,9 +65,9 @@ In the midst of that motley crowd, whose differences of values were on the verge
 
 意見の相違から今にも内輪もめを起しそうなそれらの雑多な人間の集まりの中で、テオフィロ・バルガス将軍という謎に包まれた実力者がひとり目立っていた。
 
-c15
+## c15
 
-Detuvo la mirada en el espacio donde Aureliano Segundo y Santa Sofía de la Piedad seguían viendo a José Arcadio Segundo, y también éste se dio cuenta de que el militar lo estaba mirando sin verlo. 
+**ES:** Detuvo la mirada en el espacio donde Aureliano Segundo y Santa Sofía de la Piedad seguían viendo a José Arcadio Segundo, y también éste se dio cuenta de que el militar lo estaba mirando sin verlo. 
 
 他的视线停留在奥雷里亚诺第二和桑塔索菲亚·德拉·彼达看见何塞·阿尔卡蒂奥第二的地方，但连何塞·阿尔卡蒂奥第二也意识到他对自己视而不见。
 
@@ -76,7 +76,7 @@ He paused with his glance on the space where Aureliano Segundo and Santa Soft de
 その視線は、アウレリャーノ・セグンドとサンタ・ソフィア・デ・ラ・ピエダの目には依然としてホセ・アルカディオ・セグンドの姿が見えている位置にそそがれていた。こっちを向いているくせに自分の姿が見えていないことに、ホセ・アルカディオ・セグンドも気づいた。
 
 
-Luego apagó la luz y ajustó la puerta. 
+**ES:** Luego apagó la luz y ajustó la puerta. 
 
 随后他熄了灯，关上门。
 
@@ -84,7 +84,7 @@ Then he turned out the light and closed the door.
 
 `[MISS]`
 
-Cuando les habló a los soldados, entendió Aureliano Segundo que el joven militar había visto el cuarto con los mismos ojos con que lo vio el coronel Aureliano Buendía.
+**ES:** Cuando les habló a los soldados, entendió Aureliano Segundo que el joven militar había visto el cuarto con los mismos ojos con que lo vio el coronel Aureliano Buendía.
 
 听着他对士兵们说的话，奥雷里亚诺第二明白这位年轻的军官和当年的奥雷里亚诺·布恩迪亚上校看到的是同样的景象。
 
