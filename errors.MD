@@ -1,13 +1,13 @@
 ## c08
 ### 2 or 12 years
 
-**ES:** En menos de dos años bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
+**ES:** En menos de <b>dos años</b> bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
 
-**CN:** 两年内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
+**CN:** <b>两年</b>内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
 
-**EN:** In less than twelve years they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
+**EN:** In less than <b>twelve years</b> they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
 
-**JP:** 十二年たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
+**JP:** <b>十二年</b>たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
 
 ---
 ### missed a sentense
