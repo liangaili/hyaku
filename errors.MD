@@ -1,8 +1,7 @@
 ## c08
 
 **ES:** En menos de dos años bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
-
-两年内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
+**CN:** 两年内，他们为上校在战场上一路播撒的儿子命了名，都叫奥雷里亚诺，姓氏则随母亲：共计十七个。
 
 In less than twelve years they baptized with the name Aureliano and the last name of the mother all the sons that the colonel had implanted up and down his theater of war: seventeen. 
 
@@ -10,8 +9,7 @@ In less than twelve years they baptized with the name Aureliano and the last nam
 
 
 **ES:** La persona a quien se lo dijo, que fue la primera a quien mostró la carta, era el general conservador José Raquel Moncada, alcalde de Macondo desde que terminó la guerra. 
-
-听她说这话的人，也是她对其出示信件的第一个人，是保守党将军何塞·拉克尔·蒙卡达，战后马孔多的市长。
+**CN:** 听她说这话的人，也是她对其出示信件的第一个人，是保守党将军何塞·拉克尔·蒙卡达，战后马孔多的市长。
 
 The person to whom she said it, who was the first to whom she showed the letter, was the Conservative general José Raquel Moncada, mayor of Macondo since the end of the war. 
 
