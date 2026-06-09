@@ -21,11 +21,11 @@
 **JP:** 彼女が最初にその手紙を見せ、そう話しかけた相手は、戦争の終った日からマコンドの町長となった保守派のホセ・ラケル・モンカーダ将軍だった。
 
 
-**ES:** «Este Aureliano —comentó el general Moncada—, lástima que no sea conservador». Lo admiraba de veras. 
+**ES:** «Este Aureliano —comentó el general Moncada—, lástima que no sea conservador». Lo admiraba de veras.
 
-**CN:** “这个奥雷里亚诺，”蒙卡达将军说，“真可惜他不是保守党。”
+**CN:** “这个奥雷里亚诺，”蒙卡达将军说，“真可惜他不是保守党。”他的敬佩出自真心。
 
-**EN:** “This Aureliano,” General Moncada commented, “what a pity that he’s not a Conservative.” 
+**EN:** “This Aureliano,” General Moncada commented, “what a pity that he’s not a Conservative.” He really admired him. 
 
 **JP:** ⚠️`[MISS]`⚠️
 
@@ -33,7 +33,7 @@
 
 **CN:** 像许多保守党人一样，何塞·拉克尔·蒙卡达为了捍卫自己的党派才参战，并在战场上获得了将军的头衔，但他无意成为职业军人。
 
-**EN:** He really admired him. Like many Conservative civilians, José Raquel Moncada had waged war in defense of his party and had earned the title of general on the field of battle, even though he was not a military man by profession.
+**EN:** Like many Conservative civilians, José Raquel Moncada had waged war in defense of his party and had earned the title of general on the field of battle, even though he was not a military man by profession.
 
 **JP:** 保守派の大多数の官吏と同じように、ホセ・ラケル・モンカーダも党を守るために戦闘に参加し、軍事的才能には欠けていたが、戦場で将軍の地位にまで昇進したのだ。
 
@@ -75,7 +75,7 @@ destacaba una autoridad tenebrosa: el general Teófilo Vargas.
 
 **CN:** 他的视线停留在奥雷里亚诺第二和桑塔索菲亚·德拉·彼达看见何塞·阿尔卡蒂奥第二的地方，但连何塞·阿尔卡蒂奥第二也意识到他对自己视而不见。
 
-**EN:** He paused with his glance on the space where Aureliano Segundo and Santa Soft de la Piedad were still seeing José Arcadio Segundo and the latter also realized that the soldier was looking at him without seeing him. 
+**EN:** He paused with his glance on the space where Aureliano Segundo and Santa Sofía de la Piedad were still seeing José Arcadio Segundo and the latter also realized that the soldier was looking at him without seeing him. 
 
 **JP:** その視線は、アウレリャーノ・セグンドとサンタ・ソフィア・デ・ラ・ピエダの目には依然としてホセ・アルカディオ・セグンドの姿が見えている位置にそそがれていた。こっちを向いているくせに自分の姿が見えていないことに、ホセ・アルカディオ・セグンドも気づいた。
 
