@@ -1,4 +1,5 @@
 ## c08
+### 2 or 12 years
 
 **ES:** En menos de dos años bautizaron con el nombre de Aureliano, y con el apellido de la madre, a todos los hijos que diseminó el coronel a lo largo y a lo ancho de sus territorios de guerra: diecisiete.
 
@@ -9,6 +10,7 @@
 **JP:** 十二年たらずの歳月に大佐が戦場のいたるところで産ませた子供には、すべてアウレリャーノという名前と母親の苗字がつけられた。その数は十七名にのぼった。
 
 ---
+### missed a sentense
 
 **ES:** La persona a quien se lo dijo, que fue la primera a quien mostró la carta, era el general conservador José Raquel Moncada, alcalde de Macondo desde que terminó la guerra. 
 
@@ -37,6 +39,8 @@
 
 ## c09
 
+### missed a sentense
+
 **ES:** Había, inclusive, un antiguo funcionario conservador refugiado en la revuelta para escapar a un juicio por malversación de fondos.
 
 **CN:** 甚至一位前保守党官员也在其中，他贪污公款后托身于起义军以逃避法律制裁。
@@ -64,6 +68,8 @@ destacaba una autoridad tenebrosa: el general Teófilo Vargas.
 **JP:** 意見の相違から今にも内輪もめを起しそうなそれらの雑多な人間の集まりの中で、テオフィロ・バルガス将軍という謎に包まれた実力者がひとり目立っていた。
 
 ## c15
+
+### missed a sentense
 
 **ES:** Detuvo la mirada en el espacio donde Aureliano Segundo y Santa Sofía de la Piedad seguían viendo a José Arcadio Segundo, y también éste se dio cuenta de que el militar lo estaba mirando sin verlo. 
 
